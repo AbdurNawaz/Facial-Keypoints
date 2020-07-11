@@ -5,7 +5,7 @@
 
 # Facial Keypoint Detection
 
-This is a Deep Learning Model combined with various other computer vision techniques to detect Facial Keypoints. Facial keypoints include points around the eyes, nose, and mouth on a face and are used in many applications. These applications include: facial tracking, facial pose recognition, facial filters, and emotion recognition. An example is given below
+This is a Deep Learning Model combined with various other computer vision techniques to detect Facial Keypoints. Facial keypoints include points around the eyes, nose, and mouth on a face and are used in many applications. These applications include: facial tracking, facial pose recognition, facial filters, and emotion recognition. An example is given below.
 
 ## Project Overview
 
@@ -18,13 +18,16 @@ __Notebook 1__    : Loading and Visualizing the Facial Keypoint Data
 
 __data_load.py__  : Loading and Preprocessing the Data 
 
-__model.py__      : Defining the model architecture. 
+__model.py__      : Defining the model architecture
 
 __Notebook 2__    : Defining and Training a Convolutional Neural Network (CNN) to Predict Facial Keypoints
 
 __Notebook 3__    : Facial Keypoint Detection Using Haar Cascades and Trained CNN
 
 
+The Dataset used for this Project was from [YouTube Faces DB](https://www.cs.tau.ac.il/~wolf/ytfaces/) which contains a total 5770 color images with 68 coordinates for the facial keypoints for each image.
+
+
 This Project is inspired from the research paper [Facial Key Points Detection using Deep
-Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf) and P1 of [Computer Vision nanodegree at Udacity](https://www.udacity.com/course/computer-vision-nanodegree--nd891)
+Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf) and P1 of [Computer Vision nanodegree at Udacity](https://www.udacity.com/course/computer-vision-nanodegree--nd891).
 
