@@ -22,7 +22,7 @@ __model.py__      : Defining the model architecture.
 
 __Notebook 2__    : Defining and Training a Convolutional Neural Network (CNN) to Predict Facial Keypoints
 
-__Notebook 3__    : Facial Keypoint Detection Using Haar Cascades and your Trained CNN
+__Notebook 3__    : Facial Keypoint Detection Using Haar Cascades and Trained CNN
 
 
 This Project is inspired from the research paper [Facial Key Points Detection using Deep
